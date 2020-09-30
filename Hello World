@@ -1,0 +1,7 @@
+echo "# datasciencecoursera" >> Hello World.md
+git init
+git add Hello World.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/DrMuhammadKabir/datasciencecoursera.git
+git push -u origin master
